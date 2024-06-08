@@ -5,7 +5,7 @@ type Props = {
 const ColorLine = ({color}: Props) => {
   return (
     <div>
-      <hr style={{backgroundColor:`${color}`, height:'8px'}}/>
+      <hr style={{backgroundColor:`${color}`, height:'18px'}}/>
     </div>
   );
 };
