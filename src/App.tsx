@@ -7,6 +7,8 @@ function App() {
     <div>
     <h1>Hello!!</h1>
       <ColorLine color={'red'}/>
+      <ColorLine color={'green'}/>
+      <ColorLine color={'pink'}/>
     </div>
   )
 }
