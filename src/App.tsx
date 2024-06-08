@@ -9,6 +9,7 @@ function App() {
       <ColorLine color={'red'}/>
       <ColorLine color={'green'}/>
       <ColorLine color={'pink'}/>
+      <ColorLine color={'pink'}/>
     </div>
   )
 }
